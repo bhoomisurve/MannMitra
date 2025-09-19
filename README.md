@@ -43,6 +43,17 @@ MannMitra is a mental wellness platform built with **Next.js**, designed specifi
 - **Theme:** Custom green wellness theme with dark/light mode support
 - **TypeScript:** Full TypeScript support for type safety
 
+## 📸 Screenshots
+
+### Dashboard Overview
+![Dashboard](images/Home.png)
+
+### AI Chat Interface  
+![Chat](images/Chat.png)
+
+### support
+![Support](images/Support.png)
+
 ## 📂 Project Structure
 
 ```
