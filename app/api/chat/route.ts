@@ -3,7 +3,7 @@ import { GoogleGenerativeAI } from "@google/generative-ai"
 import { getUser } from "@/lib/auth"
 
 // Initialize Gemini AI
-const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY || "AIzaSyBxPGzU0mlXAFxM7dfKk5ifGc7UTBqgyQQ")
+const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY || "")
 
 // Enhanced crisis keywords for better detection
 const CRISIS_KEYWORDS = [
